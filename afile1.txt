@@ -1,1 +1,3 @@
 Today is Sunday
+
+Temprature is 12 C
